@@ -1,6 +1,7 @@
 # test
 Githubのテスト
 
-##member
+##メンバー
 
-*testmember
+**testmember
+iwasaki
